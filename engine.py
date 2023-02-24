@@ -23,3 +23,4 @@ class Engine:
                     self.morse_code_text += new_char + ","
                     print(self.morse_code_text[:-1])
         return self.morse_code_text[:-1]
+
